@@ -1,3 +1,4 @@
 # oasisproject_level1
-![Landing page ss1](https://github.com/nandan288/oasisproject_level1/assets/134582254/0f1a196c-3405-41d1-8db5-f7402e748092)
-![Landing page ss2](https://github.com/nandan288/oasisproject_level1/assets/134582254/3d782952-3b3a-4c13-b558-f080c9b9ffbe)
+![Landing page ss1](https://github.com/nandan288/oasisproject_level1/assets/134582254/7a2ab84c-97a1-42f1-9f7e-598e75936b54)
+
+![Landing page ss2](https://github.com/nandan288/oasisproject_level1/assets/134582254/05a791c7-02c5-4459-b480-0c34acd55859)
